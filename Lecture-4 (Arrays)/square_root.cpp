@@ -40,7 +40,7 @@ int main(){
 	int N;
 	cin>>N;
 	cout << squareRoot(N)<<endl;
-	cout << sqRootBinSearch(N) <<endl;
+	cout << sqRootBinSearch(N) <<endl; 
 	//100---> 10
 	///110-->10
 	///121 -->11

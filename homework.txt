@@ -1,0 +1,42 @@
+
+10 Days of Code
+===============
+https://www.youtube.com/channel/UCWrVQZ07TBumcwV0YbcH4Kg
+
+
+
+//1. Find Power of 5, Trailing Zeroes in Factorial (Medium)
+
+
+// 2. Given two numbers, find their a^b (easy)
+
+// 3.  given an an array which contains repeating elements except 1 element, find the unique element (easy)
+1,2,3,2,4,4,1
+
+Output : 3
+
+Self Study : Bitwise Operators 
+https://www.youtube.com/watch?v=wEZfc6cPC4w&t=3635s (4 hour lecture)
+
+
+//  Given two numbers find GCD or HCF (Greatest Common Algorithm) (Easy-Medium)
+GCD(12, 8) = 4
+
+
+// Find the binary representation of a number
+5 = 101
+6 = 110
+
+// Find decimal representation of a number given 
+
+int n = 110 
+output = 6
+
+
+
+
+
+
+
+
+
